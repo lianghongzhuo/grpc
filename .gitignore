@@ -4,7 +4,7 @@ bins
 gens
 libs
 objs
-
+build
 # Python items
 cython_debug/
 python_build/
